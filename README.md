@@ -13,3 +13,4 @@ lighter half. If only two coins remain, the lighter one is counterfeit.
  
 Given a collection of coins represented by string, returns the index of the 
 counterfeit coin using only string comparison to represent a balance scale.
+
